@@ -10,3 +10,6 @@ Collection of Python projects showcasing diverse applications and functionalitie
 
 # [Guess the Number Game](https://github.com/shivam0507/Python-Projects/blob/develop/guess-the-number-game)
 A command line game where user enter a range and guess the number in minimum number of tries
+
+# [Guess the word Game](https://github.com/shivam0507/Python-Projects/tree/develop/word-guessing-game)
+A command line game where user guess the character to identify the word
