@@ -8,4 +8,5 @@ Collection of Python projects showcasing diverse applications and functionalitie
    https://github.com/shivam0507/Python-Projects.git
 
 
-- [# Guess the Number Game](https://github.com/shivam0507/Python-Projects/tree/main/guess-the-number-game)
+# [Guess the Number Game](https://github.com/shivam0507/Python-Projects/tree/main/guess-the-number-game)
+A command line game where user enter a range and guess the number in minimum number of tries
