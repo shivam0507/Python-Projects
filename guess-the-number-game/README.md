@@ -9,9 +9,3 @@ Welcome to the Guess The Number Game, a simple and interactive project where use
 - **Minimum Attempts Challenge:** Test your guessing skills and try to guess the correct number in the minimum possible attempts.
 
 - **Interactive Gameplay:** Enjoy a straightforward and interactive game that is easy to understand, making it suitable for learners and enthusiasts.
-
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/shivam0507/guess-the-number-game.git
