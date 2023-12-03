@@ -14,4 +14,4 @@ Welcome to the Guess The Number Game, a simple and interactive project where use
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/shivam0507/guess-the-number-game.git
+   https://github.com/shivam0507/Python-Projects.git
